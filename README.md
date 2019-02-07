@@ -1,2 +1,2 @@
 # Deployment
-deploy coba
+deploy deploy deploy
